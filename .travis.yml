@@ -14,7 +14,7 @@ deploy:
   region: "eu-north-1"
   app: "reactapp"
   env: "Reactapp-env"
-  bucket_name: "elasticbeanstalk-eu-north-1:817228034450"
+  bucket_name: "elasticbeanstalk-eu-north-1-817228034450"
   bucket_path: "reactapp"
   on:
     branch: main
